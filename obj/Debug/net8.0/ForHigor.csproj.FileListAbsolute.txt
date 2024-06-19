@@ -1,0 +1,14 @@
+C:\Users\danie\Documents\Dev\Work\ForHigor\bin\Debug\net8.0\ForHigor.exe
+C:\Users\danie\Documents\Dev\Work\ForHigor\bin\Debug\net8.0\ForHigor.deps.json
+C:\Users\danie\Documents\Dev\Work\ForHigor\bin\Debug\net8.0\ForHigor.runtimeconfig.json
+C:\Users\danie\Documents\Dev\Work\ForHigor\bin\Debug\net8.0\ForHigor.dll
+C:\Users\danie\Documents\Dev\Work\ForHigor\bin\Debug\net8.0\ForHigor.pdb
+C:\Users\danie\Documents\Dev\Work\ForHigor\obj\Debug\net8.0\ForHigor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\Dev\Work\ForHigor\obj\Debug\net8.0\ForHigor.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\Dev\Work\ForHigor\obj\Debug\net8.0\ForHigor.AssemblyInfo.cs
+C:\Users\danie\Documents\Dev\Work\ForHigor\obj\Debug\net8.0\ForHigor.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\Dev\Work\ForHigor\obj\Debug\net8.0\ForHigor.dll
+C:\Users\danie\Documents\Dev\Work\ForHigor\obj\Debug\net8.0\refint\ForHigor.dll
+C:\Users\danie\Documents\Dev\Work\ForHigor\obj\Debug\net8.0\ForHigor.pdb
+C:\Users\danie\Documents\Dev\Work\ForHigor\obj\Debug\net8.0\ForHigor.genruntimeconfig.cache
+C:\Users\danie\Documents\Dev\Work\ForHigor\obj\Debug\net8.0\ref\ForHigor.dll
